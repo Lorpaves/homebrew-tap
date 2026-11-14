@@ -2,8 +2,7 @@ cask "gloss" do
   version "1.0"
   sha256 "ccc42090a6bd7a52dc8c8884c3df3bdb5c8bf8d04e631f4daff39d1b2dd1955a"
 
-  url "https://github.com/lorpaves/gloss/releases/download/v#{version}/Gloss-#{version}.dmg",
-      verified: "github.com/lorpaves/gloss/"
+  url "https://github.com/lorpaves/gloss/releases/download/v#{version}/Gloss-#{version}.dmg"
   name "Gloss"
   desc "On-device selection translation in the menu bar"
   homepage "https://gloss.lorpaves.com/"
