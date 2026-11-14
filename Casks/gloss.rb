@@ -1,6 +1,6 @@
 cask "gloss" do
-  version "1.0"
-  sha256 "ccc42090a6bd7a52dc8c8884c3df3bdb5c8bf8d04e631f4daff39d1b2dd1955a"
+  version "1.0.1"
+  sha256 "f1ca37dde6b73a1a1409e970bae55bc117c1b1c9a2cf1a85ec5a19eded04945a"
 
   url "https://github.com/lorpaves/gloss/releases/download/v#{version}/Gloss-#{version}.dmg"
   name "Gloss"
