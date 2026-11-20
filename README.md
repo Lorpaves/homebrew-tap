@@ -9,3 +9,11 @@ Casks for my apps.
 ```bash
 brew install --cask lorpaves/tap/gloss
 ```
+
+## Flow
+
+[Flow](https://github.com/Lorpaves/flow) is a personal offline-first task and project management desktop app for macOS.
+
+```bash
+brew install --cask lorpaves/tap/flow
+```
