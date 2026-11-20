@@ -1,9 +1,9 @@
 cask "flow" do
   arch arm: "arm64", intel: "amd64"
 
-  version "0.1.3"
-  sha256 arm:   "c858025266efd8ad3cd17ec9c6322586b4f1704dbd6ca53846f3911eb58cfb20",
-         intel: "7f4b18c829675e2aee83c1b73b2653d8fad61116d023a947cc2bf74d923d2ec2"
+  version "0.1.4"
+  sha256 arm:   "6caebc0741ed793e4d51355a6aa960ad6ccfa8e2913eadf4abe3682b74e0daf9",
+         intel: "2110436690a53fba98ac8a4e46f5a5ccd7caa4d5a2c9d2644f19f764669cf721"
 
   url "https://github.com/Lorpaves/flow/releases/download/v#{version}/flow-#{version}-#{arch}.dmg"
   name "Flow"
